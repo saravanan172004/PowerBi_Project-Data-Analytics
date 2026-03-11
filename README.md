@@ -3,7 +3,7 @@
 
 🚀 A **Data Analytics project built using Power BI** to transform raw data into meaningful insights through interactive dashboards and visualizations.
 
-![Jobs Dashboard]()
+![Jobs Dashboard](https://github.com/saravanan172004/PowerBi_Project-Data-Analytics/blob/20f8715aa18baa13da9b5780b2322aea57341c55/Images/Jobs%20Dashboard.png)
 
 🔗 **Project Repository:**  
 https://github.com/saravanan172004/PowerBi_Project-Data-Analytics
